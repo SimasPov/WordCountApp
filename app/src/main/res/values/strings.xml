@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WordCountApp</string>
+    <string name="result">Result</string>
+    <string name="countButton">Count</string>
+    <string-array name="spSelected">
+        <item>Words</item>
+        <item>Chars</item>
+    </string-array>
+</resources>
